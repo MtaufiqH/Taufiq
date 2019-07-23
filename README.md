@@ -9,41 +9,15 @@ this course will gift an basic about kotlin and after you finished this course y
 
 ### Course Activity
 
-```
-Build Your First App
-```
-
-```
-Layouts
-```
-
-```
-App Navigations
-```
-
-```
-Activity & fragment lifecycle
-```
-
-```
-App Architecture
-```
-
-```
-RecyclerView
-```
-
-```
-Connect To Internet
-```
-
-```
-Behind the Scene
-```
-
-```
-Design for everyone
-```
+* Build Your First App
+* Layouts
+* App Navigations
+* Activity & fragment lifecycle
+* App Architecture
+* RecyclerView
+* Connect To Internet
+* Behind the Scene
+* Design for everyone
 
 ## What you will have?
 * Kotlin Fundamental
