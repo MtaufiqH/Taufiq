@@ -19,7 +19,7 @@ this course will gift an basic about kotlin and after you finished this course y
 * Behind the Scene
 * Design for everyone
 
-## What you will have?
+## What will you have?
 * Kotlin Fundamental
 * Android Development
 * etc
