@@ -1,21 +1,15 @@
 <resources>
     <string name="app_name">Taufiq</string>
-    <string name="roll_dice">Roll Dice</string>
-    <string name="name">Taufiq Hidayat</string>
-    <string name="yellow_Star">Yellow star</string>
 
-         <string name="bio">Hi, my name is Taufiq.
-\n\nI love fish.
-\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
-\nFun fact is that I have several aquariums and also a river.
-\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
-\nAnd sometimes I even go fishing.
-\nAnd even less sometimes, I actually catch something.
-\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
-\n\nI\'ll be happy to teach you how to make your own aquarium.
-\nYou should ask someone else about fishing, though.\n\n
-    </string>
-    <string name="your_nickname">What is Your Nickname?</string>
-
-    <string name="Done">Done</string>
+    <!-- Color my views String Resource-->
+    <string name="box_one">Box one</string>
+    <string name="box_two">Box two</string>
+    <string name="box_three">Box three</string>
+    <string name="box_four">Box four</string>
+    <string name="box_five">Box five</string>
+    <string name="play_start">How to play</string>
+    <string name="to_play">Click the Views and Buttons</string>
+    <string name="RED">RED</string>
+    <string name="GREEN">GREEN</string>
+    <string name="BLUE">BLUE</string>
 </resources>
