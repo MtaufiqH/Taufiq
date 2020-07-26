@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Taufiq</string>
-    <string name="roll_dice">Roll Dice</string>
+
+    <!-- Color my views String Resource-->
+    <string name="box_one">Box one</string>
+    <string name="box_two">Box two</string>
+    <string name="box_three">Box three</string>
+    <string name="box_four">Box four</string>
+    <string name="box_five">Box five</string>
+    <string name="play_start">How to play</string>
+    <string name="to_play">Click the Views and Buttons</string>
+    <string name="RED">RED</string>
+    <string name="GREEN">GREEN</string>
+    <string name="BLUE">BLUE</string>
 </resources>
